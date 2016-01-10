@@ -1,0 +1,5 @@
+Grab a cfg file, save it to "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\cfg" (or wherever TF2 is installed)
+
+Launch the game, and in developer console type "exec filename.cfg" (filename being the name of the bind you want)
+
+it will bind the key specified at the beginning of the file to say the script, default should be "k"
