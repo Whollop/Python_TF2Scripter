@@ -7,13 +7,13 @@ nf = open('Script_.tmp','r+')
 print('\n')
 print('OLD CFG FILES WILL BE DELETED')
 
-bind = raw_input('Bind to Key: ')
-cancel = raw_input('Bind Cancel Key To: ')
-delay = raw_input('Delay Between Messages: ')
-filename = raw_input('File Name: ')
+bind = input('Bind to Key: ')
+cancel = input('Bind Cancel Key To: ')
+delay = input('Delay Between Messages: ')
+filename = input('File Name: ')
 
 prepre1 = 'alias '
-prepre2 = raw_input('Alias name? ')
+prepre2 = input('Alias name? ')
 prenum = 0
 presuf = ' "say '
 suffix = '"'
