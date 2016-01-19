@@ -1,0 +1,11 @@
+1. Save selected bind to your [TF2 Install Directory]\tf\cfg folder.
+
+2. When in game, open the developer console
+
+3. Type in exec [Bind Filename]. example, exec BeeMovie
+
+4. When on a Valve server, or a server that lets you use theses spammy shits, press K.
+
+5. To cancel, press L.
+
+6. Have Fun Fuckers
